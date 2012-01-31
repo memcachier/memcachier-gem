@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'memcachier'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2011-01-30'
   s.summary     = "Compatibility gem for using memcached libraries with MemCachier"
   s.description = "Simple gem that sets the memcached environment variables to the values of corresponding memcachier environment variables.
