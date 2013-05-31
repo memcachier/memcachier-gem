@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.email       = 'support@memcachier.com'
   s.files       = ["lib/memcachier.rb", "LICENSE"]
   s.homepage    = 'http://www.memcachier.com'
+  s.license     = "MIT"
 end
